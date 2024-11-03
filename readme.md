@@ -29,12 +29,7 @@ A collection of Unix lab programs that demonstrate basic system and network prog
 Learn C programming and explore system calls used in Unix/Linux environments with this comprehensive playlist.
 - [C and System Calls Playlist](https://youtube.com/playlist?list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY)
 
-## Getting Started
-1. **Prerequisites**: Basic knowledge of C programming and Unix/Linux command line.
-2. **Setup**: Follow the tutorials in the resources section to set up your development environment and run example programs.
 
 ## Contributing
 Contributions are welcome! If you have additional resources or improvements to the material, please feel free to open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
